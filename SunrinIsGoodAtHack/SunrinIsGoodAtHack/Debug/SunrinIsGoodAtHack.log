@@ -1,2 +1,5 @@
 ﻿  Scene.cpp
-  SunrinIsGoodAtHack.vcxproj -> C:\Users\성진\source\repos\SunrinIsGoodAtHack\Debug\SunrinIsGoodAtHack.exe
+d:\github\sunrinisgoodathack\sunrinisgoodathack\sunrinisgoodathack\scene.h(31): warning C4129: '>': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+d:\github\sunrinisgoodathack\sunrinisgoodathack\sunrinisgoodathack\scene.cpp(70): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\sunrinisgoodathack\sunrinisgoodathack\sunrinisgoodathack\scene.cpp(147): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SunrinIsGoodAtHack.vcxproj -> D:\Github\SunrinIsGoodAtHack\SunrinIsGoodAtHack\Debug\SunrinIsGoodAtHack.exe

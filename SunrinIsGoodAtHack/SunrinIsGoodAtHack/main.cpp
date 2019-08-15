@@ -4,7 +4,7 @@
 #include"Scene.h"
 
 int main() {
-	setSize(125, 40);
+	//setSize(125, 40);
 
 	Scene scene(SceneType::TitleScene);
 	
